@@ -1,1 +1,1 @@
-## Problem 1: Three ways to sum to n
+# Problem 1: Three ways to sum to n
